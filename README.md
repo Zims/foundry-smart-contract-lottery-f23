@@ -4,7 +4,7 @@
 
 This repository contains the source code for the Provably Random Raffle Contracts. The contracts are written in Solidity 
 
-# What do want it to do?
+# What do we want it to do?
 1. A user can enter by buying a ticket.
     * The money is held in the contract until the raffle is over. And is paid to the winner.
 2. After x period of time the winner is drawn.
